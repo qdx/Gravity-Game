@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView
+android:id="@+id/line1"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="本游戏的目的是通过改变移动速度，移动方向以及立场等部件，让画面中的桔子碰到桔子皮。游戏的基本操作如下："
+>
+</TextView>
+<TextView
+android:id="@+id/line2"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="1.触摸立场或者桔子打开其各自的菜单栏，调整速度大小。在打开菜单栏的状态，拖动可以调整立场方向或者桔子的运动方向。"
+>
+</TextView>
+<TextView
+android:id="@+id/line3"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="2.游戏中，木质的部件均可以碰撞。如果桔子跑到上下和右边的屏幕边界外则失败。"
+>
+</TextView>
+<TextView
+android:id="@+id/line4"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="3.设置好运动方向以及立场的状态之后，触摸屏幕左下角的“GO!”按钮则桔子开始运动"
+>
+</TextView>
+<TextView
+android:id="@+id/line5"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="4.运动过程中，如果桔子碰到了桔子皮，则过关。"
+>
+</TextView>
+<TextView
+android:id="@+id/line6"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="5.游戏过程中，任何时刻均可以按返回键返回主菜单"
+>
+</TextView>
+<TextView
+android:id="@+id/back"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="按返回键返回主菜单"
+android:textSize="20sp"
+android:textColor="#ffff3300"
+>
+</TextView>
+
+</LinearLayout>

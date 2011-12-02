@@ -1,0 +1,66 @@
+[Box: ::qdx.game - ::<<Unknown>>::Activity]
+X=290
+Y=35
+
+[Box: ::qdx.game - ::<<Unknown>>::SurfaceHolder.Callback]
+X=203
+Y=383
+
+[Box: ::qdx.game - ::<<Unknown>>::SurfaceView]
+X=54
+Y=34
+
+[Box: ::qdx.game - ::<<Unknown>>::Thread]
+X=511
+Y=37
+
+[Box: ::qdx.game - ::qdx.game::activity0]
+X=286
+Y=180
+
+[Box: ::qdx.game - ::qdx.game::activity1]
+X=58
+Y=228
+
+[Box: ::qdx.game - ::qdx.game::DrawThread]
+X=511
+Y=226
+
+[Box: ::qdx.game - ::qdx.game::Fixed]
+X=1218
+Y=17
+
+[Box: ::qdx.game - ::qdx.game::GameShape]
+X=977
+Y=24
+
+[Box: ::qdx.game - ::qdx.game::GameView]
+X=58
+Y=450
+
+[Box: ::qdx.game - ::qdx.game::gravityField]
+X=1217
+Y=269
+
+[Box: ::qdx.game - ::qdx.game::MainMovable]
+X=976
+Y=866
+
+[Box: ::qdx.game - ::qdx.game::Movable]
+X=977
+Y=241
+
+[Box: ::qdx.game - ::qdx.game::MoveThread]
+X=753
+Y=247
+
+[Box: ::qdx.game - ::qdx.game::posVector]
+X=754
+Y=39
+
+[Diagram: ::qdx.game]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=1
+
